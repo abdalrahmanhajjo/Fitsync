@@ -1,0 +1,69 @@
+name: fitsync
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  multi_select_flutter: 4.1.3
+  shared_preferences: ^2.0.15
+  provider: ^6.1.1
+  intl: ^0.17.0
+  fl_chart: ^0.63.0
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.5.0
+  flutter_svg: ^2.0.0
+  table_calendar: ^3.0.8
+  charts_flutter: ^0.12.0
+  percent_indicator: ^4.2.2
+  syncfusion_flutter_charts: ^20.4.48
+  syncfusion_flutter_datepicker: ^20.4.54
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/workouts/full_body.jpg
+    - assets/workouts/upper_body.jpg
+    - assets/workouts/hiit.jpg
+    - assets/workouts/yoga.jpg
+    - assets/workouts/core.jpg
+    - assets/workouts/legs.jpg
+    - assets/workouts/upper_body_burner.jpg
+    - assets/workouts/cardio.jpg
+    - assets/workouts/mobility.jpg
+    - assets/workouts/bodyweight.jpg
+    - assets/exercises/pushups.jpg
+    - assets/exercises/squats.jpg
+    - assets/exercises/plank.jpg
+    - assets/exercises/bench_press.jpg
+    - assets/exercises/shoulder_press.jpg
+    - assets/exercises/bicep_curls.jpg
+    - assets/exercises/burpees.jpg
+    - assets/exercises/jump_squats.jpg
+    - assets/exercises/mountain_climbers.jpg
+    - assets/exercises/sun_salutation.jpg
+    - assets/exercises/warrior_pose.jpg
+    - assets/exercises/leg_raises.jpg
+    - assets/exercises/russian_twists.jpg
+    - assets/exercises/plank_pushup.jpg
+    - assets/exercises/barbell_squats.jpg
+    - assets/exercises/romanian_deadlifts.jpg
+    - assets/exercises/split_squats.jpg
+    - assets/exercises/pullups.jpg
+    - assets/exercises/dips.jpg
+    - assets/exercises/incline_press.jpg
+    - assets/exercises/treadmill.jpg
+    - assets/exercises/dynamic_stretching.jpg
+    - assets/exercises/foam_rolling.jpg
+    - assets/exercises/pistol_squats.jpg
+    - assets/exercises/archer_pushups.jpg
+    - assets/exercises/dragon_flags.jpg
